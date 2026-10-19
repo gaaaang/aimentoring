@@ -1,3 +1,6 @@
+GitHub 저장소: https://github.com/gaaaang/aimentoring
+Streamlit 실행 페이지: https://ai-infra-tutor.streamlit.app/
+
 # InfraMate - AI 인프라 용어 학습 튜터
 
 대규모 언어 모델(LLM), 프롬프트 엔지니어링, Azure OpenAI, LangChain·LangGraph, RAG, 서비스 패키징, MCP·A2A 등 강의 내용을 바탕으로 만든 AI 인프라 용어 학습용 Streamlit 앱입니다.
